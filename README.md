@@ -1,5 +1,5 @@
 # examples-remark-plugin-old
 
-![Node.js CI](https://github.com/akabekobeko/examples-remark-plugin-old/workflows/nodejs-ci/badge.svg)
+![test](https://github.com/akabekobeko/examples-remark-plugin-old/workflows/nodejs-ci/badge.svg)
 
-[WIP] Examples remark plugin for micromark (less than remark 13)
+[WIP] A repository for testing the remark (less than v13) implementation used by [VFM](https://github.com/vivliostyle/vfm).
